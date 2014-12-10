@@ -1,6 +1,6 @@
 {
   "name": "mbed-hal-freescale",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "mbed low-level Hardware Abstraction Layer implementation for Freescale microcontrollers",
   "keywords": [
     "mbed",
@@ -13,8 +13,7 @@
   },
   "homepage": "https://github.com/ARMmbed/mbed-hal-freescale",
   "license": "Apache-2",
-  "dependencies": {
-  },
+  "dependencies": {},
   "targetDependencies": {
     "ksdk-mcu": {
       "mbed-hal-ksdk-mcu": "ARMmbed/mbed-hal-ksdk-mcu#~0.0.3"
