@@ -16,7 +16,7 @@
   "dependencies": {},
   "targetDependencies": {
     "ksdk-mcu": {
-      "mbed-hal-ksdk-mcu": "ARMmbed/mbed-hal-ksdk-mcu#~0.0.3"
+      "mbed-hal-ksdk-mcu": "ARMmbed/mbed-hal-ksdk-mcu#~0.1.0"
     }
   }
 }
