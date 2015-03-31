@@ -15,8 +15,8 @@
   "license": "Apache-2",
   "dependencies": {},
   "targetDependencies": {
-    "ksdk-mcu": {
-      "mbed-hal-ksdk-mcu": "ARMmbed/mbed-hal-ksdk-mcu-private#~0.1.0"
+    "frdm-k64f": {
+      "mbed-hal-frdm-k64f": "ARMmbed/mbed-hal-frdm-k64f#~0.1.0"
     }
   }
 }
