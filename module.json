@@ -2,6 +2,7 @@
   "name": "mbed-hal-freescale",
   "version": "0.1.3",
   "description": "mbed low-level Hardware Abstraction Layer implementation for Freescale microcontrollers",
+  "private": true,
   "keywords": [
     "mbed",
     "HAL"
