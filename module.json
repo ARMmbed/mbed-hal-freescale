@@ -4,7 +4,8 @@
   "description": "mbed low-level Hardware Abstraction Layer implementation for Freescale microcontrollers",
   "keywords": [
     "mbed",
-    "HAL"
+    "HAL",
+    "mbed-official"
   ],
   "author": "Martin Kojtal <martin.kojtal@arm.com>",
   "repository": {
@@ -16,7 +17,7 @@
   "dependencies": {},
   "targetDependencies": {
     "ksdk-mcu": {
-      "mbed-hal-ksdk-mcu": "~0.6.0"
+      "mbed-hal-ksdk-mcu": "^1.0.0"
     }
   }
 }
